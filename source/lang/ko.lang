@@ -529,7 +529,7 @@ msgstr "브라질 포루투갈어"
 msgid "Power off Wii"
 msgstr "Wii 끄기"
 
-msgid "Preferences saved"
+dkmsgid "Preferences saved"
 msgstr "환경 설정 저장"
 
 msgid "Press any button on the Classic Controller now. Press Home to clear the existing mapping."
@@ -920,7 +920,7 @@ msgid "VS Castlevania palette"
 msgstr "VS 캐슬베니아 팔레트"
 
 msgid "VS SMB/VS Ice Climber palette"
-msgstr "VS SMB/VS아이스 클라이머 팔레트"
+msgstr "VS SMB/VS 아이스 클라이머 팔레트"
 
 msgid "Catalan"
 msgstr "카탈루니아어"
